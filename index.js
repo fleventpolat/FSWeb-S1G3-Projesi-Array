@@ -45,7 +45,7 @@ Aşağıdakileri yapmak için aşağıdaki kopyalama işlevini kullanın:
 
 function kopyala(dizi){
   
-  return [yeniDizi];
+  return [...dizi];
 }
 
 
